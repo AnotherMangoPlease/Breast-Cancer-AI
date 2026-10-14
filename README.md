@@ -1,5 +1,4 @@
 # Breast-Cancer-AI
-# Breast Cancer AI
 
 ### Deep Learning for Breast Histopathology Image Classification
 
